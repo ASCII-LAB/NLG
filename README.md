@@ -16,15 +16,16 @@ Short and daily paper reading
     <td rowspan=16>1</td>
   </tr>
   <tr>
-    <td>Wanyue Zhang</td>
+    <td>Yanhe Fu</td>
     <td>0</td>
   </tr>
   <tr>
-    <td>Yanhe Fu</td>
+    <td>Wanyue Zhang</td>
     <td>0</td>
   </tr>
 </table>
 
+(Students are sorted by grade)
 
 
 <br>2022-10-17</br>
