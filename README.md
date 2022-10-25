@@ -1,9 +1,6 @@
 # daily-paper-reading
 
 Short and daily paper reading
-<br>[王青悦论文阅读笔记](https://github.com/ASCII-LAB/NLG/blob/main/README.md#wang-qingyue）
-<br>[张琬悦论文阅读笔记](https://github.com/ASCII-LAB/NLG/blob/main/README.md#zhang-wanyue）
-<br>[傅延赫论文阅读笔记](https://github.com/ASCII-LAB/NLG/blob/main/README.md#fu-yanhe）
 
 2022-10
 
