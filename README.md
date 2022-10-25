@@ -1,6 +1,9 @@
 # daily-paper-reading
 
 Short and daily paper reading
+<br>[王青悦论文阅读笔记](#王青悦论文阅读笔记）
+<br>[张琬悦论文阅读笔记](#张琬悦论文阅读笔记）
+<br>[傅延赫论文阅读笔记](#傅延赫论文阅读笔记）
 
 2022-10
 
@@ -26,6 +29,8 @@ Short and daily paper reading
 </table>
 
 (Students are sorted by grade)
+
+### 王青悦论文阅读笔记
 <br> 2022-10-25 </br>
 *title*:
 [NEAREST NEIGHBOR MACHINE TRANSLATION, ICLR 2021](https://arxiv.org/pdf/2010.00710.pdf)
@@ -136,6 +141,8 @@ Transfer Learning, Text Generation, Prompt Learning
 
 **by Qingyue Wang**
 
+
+### 张琬悦论文阅读笔记
 <br>2022-10-25</br>
 ***title*:**
 Improving Multi-turn Emotional Support Dialogue Generation with Lookahead Strategy Planning,EMNLP 2022[[paper]](https://arxiv.org/abs/2210.04242) [[code]](https://github.com/lwgkzl/MultiESC)
@@ -175,3 +182,6 @@ Ruihui Zhao3, Bang Liu4,Xiaodan Liang5, Yefeng Zheng3
 本文的novelty是面向多轮对话而非单轮交互，考虑的主要是（在多轮对话中）长期减少用户的情绪困扰，并提出了一种在战略规划和对话生成方面均显著优于baseline的算法MultiESC。但是文章也提到这种算法的**限制limitation**是无法提供个性化对话。**个人思考**：本文算法MultiESC对于对象的情绪分析有很好的效果，那么是否可以通过知识图谱和用户数据库进行个性化对话，然后通过语音指纹或者密码登陆来识别用户（这个涉及隐私和安全问题），但是这种个性化方法对资源要求很高。
 
 **by Wanyue Zhang**
+
+
+### 傅延赫论文阅读笔记
