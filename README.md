@@ -1,9 +1,9 @@
 # daily-paper-reading
 
 Short and daily paper reading
-<br>[王青悦论文阅读笔记](#-王青悦论文阅读笔记）
-<br>[张琬悦论文阅读笔记](#-张琬悦论文阅读笔记）
-<br>[傅延赫论文阅读笔记](#-傅延赫论文阅读笔记）
+<br>[王青悦论文阅读笔记](#王青悦论文阅读笔记）
+<br>[张琬悦论文阅读笔记](#张琬悦论文阅读笔记）
+<br>[傅延赫论文阅读笔记](#傅延赫论文阅读笔记）
 
 2022-10
 
@@ -30,7 +30,7 @@ Short and daily paper reading
 
 (Students are sorted by grade)
 
-### 王青悦论文阅读笔记
+## 王青悦论文阅读笔记
 <br> 2022-10-25 </br>
 *title*:
 [NEAREST NEIGHBOR MACHINE TRANSLATION, ICLR 2021](https://arxiv.org/pdf/2010.00710.pdf)
@@ -142,7 +142,7 @@ Transfer Learning, Text Generation, Prompt Learning
 **by Qingyue Wang**
 
 
-### 张琬悦论文阅读笔记
+## 张琬悦论文阅读笔记
 <br>2022-10-25</br>
 ***title*:**
 Improving Multi-turn Emotional Support Dialogue Generation with Lookahead Strategy Planning,EMNLP 2022[[paper]](https://arxiv.org/abs/2210.04242) [[code]](https://github.com/lwgkzl/MultiESC)
@@ -184,4 +184,4 @@ Ruihui Zhao3, Bang Liu4,Xiaodan Liang5, Yefeng Zheng3
 **by Wanyue Zhang**
 
 
-### 傅延赫论文阅读笔记
+## 傅延赫论文阅读笔记
