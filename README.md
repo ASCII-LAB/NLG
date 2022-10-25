@@ -21,7 +21,7 @@ Short and daily paper reading
   </tr>
   <tr>
     <td>Wanyue Zhang</td>
-    <td>0</td>
+    <td>1</td>
   </tr>
 </table>
 
